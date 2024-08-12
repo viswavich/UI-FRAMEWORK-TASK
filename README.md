@@ -2,7 +2,7 @@ Here’s a sample `README.md` file for your Vite project, detailing the setup an
 
 ---
 
-# Vite Project
+# Project
 
 ## Description
 
